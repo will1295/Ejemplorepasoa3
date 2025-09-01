@@ -3,4 +3,4 @@ Este es un repositorio de ejemplo
 
 Nombre de los integrantes
 
-Juanito Perez Codigo SMSS1234
+**Juanito Perez Codigo SMSS1234**
